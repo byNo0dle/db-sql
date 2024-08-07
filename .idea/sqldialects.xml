@@ -3,5 +3,6 @@
   <component name="SqlDialectMappings">
     <file url="file://$PROJECT_DIR$/mysql/distinct.sql" dialect="MariaDB" />
     <file url="file://$PROJECT_DIR$/mysql/select.sql" dialect="MariaDB" />
+    <file url="file://$PROJECT_DIR$/mysql/where.sql" dialect="MariaDB" />
   </component>
 </project>
